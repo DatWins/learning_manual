@@ -1,4 +1,4 @@
-baseURL: https://thriving-trifle-c5498f.netlify.app/
+baseURL: "https://thriving-trifle-c5498f.netlify.app/"
 languageCode: en-us
 defaultContentLanguage: en
 title: PaperCSS
