@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://thriving-trifle-c5498f.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
 title: PaperCSS
@@ -39,9 +39,7 @@ menu:
     - name: About
       url: /about/
       weight: 3
-    - name: RSS
-      url: /index.xml
-      weight: 4
+    
 
 markup:
   defaultMarkdownHandler: goldmark
