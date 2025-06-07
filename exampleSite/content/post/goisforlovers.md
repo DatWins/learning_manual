@@ -15,7 +15,6 @@ categories = [
 ]
 series = ["Hugo 101"]
 author = "Hugo Authors"
-drat: true
 +++
 
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
