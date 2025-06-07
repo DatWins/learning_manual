@@ -15,6 +15,7 @@ categories = [
 series = ["Hugo 101"]
 author = "Hugo Authors"
 show_summary = false 
+draft: true
 +++
 
 ## Step 1. Install Hugo
