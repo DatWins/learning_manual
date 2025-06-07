@@ -9,6 +9,7 @@ series:
 aliases:
 - /blog/migrate-from-jekyll/
 show_summary: false
+draft: true
 ---
 
 ## Move static content to `static`
